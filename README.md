@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Taiyaki256)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taiyaki256)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
