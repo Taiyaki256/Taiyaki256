@@ -1,10 +1,10 @@
 # Hi there, I'm Taiyaki.
 ## Language
 
-- [x] C++
-- [x] C#
-- [x] Typescript
-- [x] Python (little) 
+- ✅ C++
+- ✅ C#
+- ✅ Typescript
+- ✅ Python (little) 
 
 ![](https://komarev.com/ghpvc/?username=Taiyaki256)
 
